@@ -31,7 +31,7 @@ startServer("127.0.0.1", 1234, list(
 
 ui <- fluidPage(
   tags$h1("Doom in Shiny"),
-  tags$p("Space = fire; e = open doors"),
+  tags$p("Space: fire; E: open door; up/down/left/right: move; 1-4: change weapon; Esc: release mouse/go to menu; F: full screen"),
   tags$iframe(style = "width:850px; height:640px;", src = "http://127.0.0.1:1234/index.html")
 )
 

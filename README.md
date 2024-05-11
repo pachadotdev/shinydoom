@@ -51,12 +51,12 @@ Then change the path in `app.R` to `doom-compiled` and deploy.
 
 ## Controls
 
-* F: full screen
 * Space: fire
-* T: open door
+* E: open door
 * up/down/left/right: move
 * 1-4: change weapon
 * Esc: release mouse/go to menu
+* F: full screen
 
 You can also use the mouse to move around.
 
