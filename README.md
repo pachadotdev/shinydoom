@@ -1,5 +1,13 @@
 # Doom in Shiny
 
+## About
+
+I wrote a [blog post](https://pacha.dev/blog/2024/05/10) explaining the details and I even included a video.
+
+Here is how the game looks once it runs on Shiny:
+
+![image](https://github.com/pachadotdev/shinydoom/assets/10091065/e47ba7d6-a9af-4744-8713-e0b42d4d386e)
+
 ## Build
 
 ```bash
@@ -32,3 +40,5 @@ Source `app.R` from RStudio or VSCode.
 * Esc: release mouse/go to menu
 
 You can also use the mouse to move around.
+
+*If you like what I do as a content creator, you can donate on [Buy Me a Coffee](https://buymeacoffee.com/pacha).*
