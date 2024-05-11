@@ -2,7 +2,8 @@ library(shiny)
 library(httpuv)
 
 # Define the path to the directory containing your Doom game files
-doom_directory <- "./doom-wasm/src"
+# doom_directory <- "./doom-wasm/src"
+doom_directory <- "./doom-compiled"
 
 # Start a server to serve Doom files
 startServer("127.0.0.1", 1234, list(
