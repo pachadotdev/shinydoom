@@ -4,6 +4,8 @@
 
 I wrote a [blog post](https://pacha.dev/blog/2024/05/10) explaining the details and I even included a video.
 
+It is hosted on [shinyapps.io](https://pachamaltese.shinyapps.io/shinydoom/).
+
 Here is how the game looks once it runs on Shiny:
 
 ![image](https://github.com/pachadotdev/shinydoom/assets/10091065/e47ba7d6-a9af-4744-8713-e0b42d4d386e)
